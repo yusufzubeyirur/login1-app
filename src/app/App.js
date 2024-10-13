@@ -3,7 +3,6 @@ import "./globals.css";
 export default function Home() {
   return (
     <div className="flex flex-col lg:flex-row w-full h-screen">
-      {/* Sol taraf */}
       <div className="mt-20 ml-10 lg:ml-20 flex flex-col justify-center items-center lg:items-start lg:w-1/2">
         <h1 className="font-sans text-5xl lg:text-8xl">LOGIN</h1>
         <input
